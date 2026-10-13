@@ -132,7 +132,7 @@ textarea {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url('../media/graduate.jpg') center 35% / cover;
+    background: url('media/graduate.jpg') center 35% / cover;
     color: white;
     padding: 104px 0 64px;
 }
